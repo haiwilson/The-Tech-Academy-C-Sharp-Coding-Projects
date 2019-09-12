@@ -13,9 +13,9 @@ namespace programcs
 			Console.WriteLine("The Tech Academy");
 			Console.WriteLine("Student Daily Report");
 			Console.WriteLine("What Course are you on?");
-			string courseNumber = Console.ReadLine();
+			int courseNumber = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("What Page Number?");
-			string pageNumber = Console.ReadLine();
+			float pageNumber = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Do you need help with anything? Please say Yes/No");
 			string helpAnswer = Console.ReadLine();
 			Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
@@ -23,7 +23,7 @@ namespace programcs
 			Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
 			string proFeedback = Console.ReadLine();
 			Console.WriteLine("How many hours did you study today?");
-			string studyHours = Console.ReadLine();
+			decimal studyHours = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly.Have a great day!");
 			Console.ReadLine();
 			Console.WriteLine("You are on Course Number " + courseNumber + "  and one Page Number " + pageNumber + "  and you studied for " + studyHours + " hours");
