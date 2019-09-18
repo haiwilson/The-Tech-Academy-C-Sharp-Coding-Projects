@@ -1,0 +1,7 @@
+C:\sample\insurance\insurance\bin\Debug\insurance.exe.config
+C:\sample\insurance\insurance\bin\Debug\insurance.exe
+C:\sample\insurance\insurance\bin\Debug\insurance.pdb
+C:\sample\insurance\insurance\obj\Debug\insurance.csprojAssemblyReference.cache
+C:\sample\insurance\insurance\obj\Debug\insurance.csproj.CoreCompileInputs.cache
+C:\sample\insurance\insurance\obj\Debug\insurance.exe
+C:\sample\insurance\insurance\obj\Debug\insurance.pdb
