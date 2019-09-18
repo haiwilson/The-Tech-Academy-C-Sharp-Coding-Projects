@@ -1,0 +1,7 @@
+C:\sample\shipping\shipping\obj\Debug\shipping.csprojAssemblyReference.cache
+C:\sample\shipping\shipping\obj\Debug\shipping.csproj.CoreCompileInputs.cache
+C:\sample\shipping\shipping\bin\Debug\shipping.exe.config
+C:\sample\shipping\shipping\bin\Debug\shipping.exe
+C:\sample\shipping\shipping\bin\Debug\shipping.pdb
+C:\sample\shipping\shipping\obj\Debug\shipping.exe
+C:\sample\shipping\shipping\obj\Debug\shipping.pdb
