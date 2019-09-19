@@ -1,0 +1,7 @@
+C:\sample\booleancomp\booleancomp\bin\Debug\booleancomp.exe.config
+C:\sample\booleancomp\booleancomp\bin\Debug\booleancomp.exe
+C:\sample\booleancomp\booleancomp\bin\Debug\booleancomp.pdb
+C:\sample\booleancomp\booleancomp\obj\Debug\booleancomp.csprojAssemblyReference.cache
+C:\sample\booleancomp\booleancomp\obj\Debug\booleancomp.csproj.CoreCompileInputs.cache
+C:\sample\booleancomp\booleancomp\obj\Debug\booleancomp.exe
+C:\sample\booleancomp\booleancomp\obj\Debug\booleancomp.pdb
