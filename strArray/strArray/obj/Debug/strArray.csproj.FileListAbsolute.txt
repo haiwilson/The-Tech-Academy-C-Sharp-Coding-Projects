@@ -1,0 +1,7 @@
+C:\sample\strArray\strArray\obj\Debug\strArray.csprojAssemblyReference.cache
+C:\sample\strArray\strArray\obj\Debug\strArray.csproj.CoreCompileInputs.cache
+C:\sample\strArray\strArray\bin\Debug\strArray.exe.config
+C:\sample\strArray\strArray\bin\Debug\strArray.exe
+C:\sample\strArray\strArray\bin\Debug\strArray.pdb
+C:\sample\strArray\strArray\obj\Debug\strArray.exe
+C:\sample\strArray\strArray\obj\Debug\strArray.pdb
