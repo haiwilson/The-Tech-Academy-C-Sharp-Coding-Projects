@@ -1,0 +1,7 @@
+C:\sample\methodclass\methodclass\obj\Debug\methodclass.csprojAssemblyReference.cache
+C:\sample\methodclass\methodclass\obj\Debug\methodclass.csproj.CoreCompileInputs.cache
+C:\sample\methodclass\methodclass\bin\Debug\methodclass.exe.config
+C:\sample\methodclass\methodclass\bin\Debug\methodclass.exe
+C:\sample\methodclass\methodclass\bin\Debug\methodclass.pdb
+C:\sample\methodclass\methodclass\obj\Debug\methodclass.exe
+C:\sample\methodclass\methodclass\obj\Debug\methodclass.pdb
