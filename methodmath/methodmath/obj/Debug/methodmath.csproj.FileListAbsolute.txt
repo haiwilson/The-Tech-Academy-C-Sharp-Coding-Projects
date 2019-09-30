@@ -1,0 +1,6 @@
+C:\sample\methodmath\methodmath\obj\Debug\methodmath.csproj.CoreCompileInputs.cache
+C:\sample\methodmath\methodmath\bin\Debug\methodmath.exe.config
+C:\sample\methodmath\methodmath\bin\Debug\methodmath.exe
+C:\sample\methodmath\methodmath\bin\Debug\methodmath.pdb
+C:\sample\methodmath\methodmath\obj\Debug\methodmath.exe
+C:\sample\methodmath\methodmath\obj\Debug\methodmath.pdb
