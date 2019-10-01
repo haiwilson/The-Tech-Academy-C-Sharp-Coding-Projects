@@ -1,0 +1,7 @@
+C:\sample\person\person\obj\Debug\person.csprojAssemblyReference.cache
+C:\sample\person\person\obj\Debug\person.csproj.CoreCompileInputs.cache
+C:\sample\person\person\bin\Debug\person.exe.config
+C:\sample\person\person\bin\Debug\person.exe
+C:\sample\person\person\bin\Debug\person.pdb
+C:\sample\person\person\obj\Debug\person.exe
+C:\sample\person\person\obj\Debug\person.pdb
